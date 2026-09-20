@@ -17,7 +17,7 @@ in a column of numbers.
 
 | Topic | Question it answers | State |
 |---|---|---|
-| [Localization](Localization/) | Where am I | days 1 and 2 of 8 complete |
+| [Localization](Localization/) | Where am I | days 1 to 3 of 8 complete |
 | Mapping | What does the world look like | not started |
 | Simultaneous localization and mapping | Both of the above at once | not started |
 | Path planning | How do I get there | not started |

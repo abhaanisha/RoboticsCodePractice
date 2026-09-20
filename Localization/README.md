@@ -64,7 +64,7 @@ most of what happens in the demonstrations that follow, including the failures.
 |---|---|---|---|
 | 1 | [Histogram filter in one dimension](day01_histogram_filter_1d/) | one probability for each cell | complete |
 | 2 | [Kalman filter in one dimension](day02_kalman_filter_1d/) | a mean and a variance | complete |
-| 3 | Kalman filter, multivariate | a mean vector and a covariance matrix | planned |
+| 3 | [Kalman filter, multivariate](day03_kalman_filter_nd/) | a mean vector and a covariance matrix | complete |
 | 4 | Extended Kalman filter | the same, linearized with Jacobians | planned |
 | 5 | Unscented Kalman filter | the same, propagated through sigma points | planned |
 | 6 | Particle filter, or Monte Carlo localization | several thousand weighted samples | planned |
