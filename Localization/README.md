@@ -63,7 +63,7 @@ most of what happens in the demonstrations that follow, including the failures.
 | Day | Method | Representation of the belief | State |
 |---|---|---|---|
 | 1 | [Histogram filter in one dimension](day01_histogram_filter_1d/) | one probability for each cell | complete |
-| 2 | Kalman filter in one dimension | a mean and a variance | planned |
+| 2 | [Kalman filter in one dimension](day02_kalman_filter_1d/) | a mean and a variance | complete |
 | 3 | Kalman filter, multivariate | a mean vector and a covariance matrix | planned |
 | 4 | Extended Kalman filter | the same, linearized with Jacobians | planned |
 | 5 | Unscented Kalman filter | the same, propagated through sigma points | planned |

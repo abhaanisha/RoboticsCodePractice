@@ -17,7 +17,7 @@ in a column of numbers.
 
 | Topic | Question it answers | State |
 |---|---|---|
-| [Localization](Localization/) | Where am I | day 1 of 8 complete |
+| [Localization](Localization/) | Where am I | days 1 and 2 of 8 complete |
 | Mapping | What does the world look like | not started |
 | Simultaneous localization and mapping | Both of the above at once | not started |
 | Path planning | How do I get there | not started |
@@ -41,5 +41,6 @@ Localization/day01_histogram_filter_1d/
 pip install -r requirements.txt
 ```
 
-Python 3.10 or later is required. The only dependencies are NumPy, Matplotlib, and Pillow.
-Nothing specific to robotics is used, and this is deliberate.
+Python 3.10 or later is required. NumPy, Matplotlib, and Pillow carry most of the work.
+SciPy supplies the statistical distributions from day 2 onward, and filterpy is used only
+to check the handwritten filters against an established implementation.
